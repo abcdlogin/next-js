@@ -19,31 +19,31 @@ export default function Home() {
         </h2>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="" className={styles.card}>
             <h3>About</h3>
             <p>This is a test.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="" className={styles.card}>
             <h3>Hobbies</h3>
             <p>My Hobbies!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href=""
             className={styles.card}
           >
             <h3>Foods</h3>
-            <p>eeeee.</p>
+            <p>The Foods!</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=""
             className={styles.card}
           >
             <h3>Skills</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              What I am good at!
             </p>
           </a>
         </div>
