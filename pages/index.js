@@ -12,11 +12,8 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to My Page!
         </h1>
-
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+        <h2>This is the home page of my site
+      <h2>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
