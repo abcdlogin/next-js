@@ -7,17 +7,30 @@ export default function Home() {
       <Head>
         <title>Home Page</title>
         <link rel="icon" href="/favicon.ico" />
+    <style>
+    h1{
+        color: lightseagreen;
+    }
+    h2{
+        color: white
+    }
+    body{
+        background-color: lightgreen;
+        background-image: url('http://localhost:63342/MyselfProject/me.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    </style>
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to My Page!
+          Home Page
         </h1>
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
+        <h2>
+            This is the home page of my site.
+        </h2>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
