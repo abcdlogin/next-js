@@ -20,22 +20,22 @@ export default function Home() {
         </h2>
 
         <div className={styles.grid}>
-          <a href="pages/About.html" className={styles.card}>
+          <a href="https://github.com/abcdlogin/next-js/blob/0af07cc8bb5eaed4f93c8e8b6d340969456166a1/pages/About.html" className={styles.card}>
             <h3>About</h3>
             <p>This is a test.</p>
           </a>
 
-          <a href="pages/Hobbies.html" className={styles.card}>
+          <a href="https://github.com/abcdlogin/next-js/blob/0af07cc8bb5eaed4f93c8e8b6d340969456166a1/pages/Hobbies.html" className={styles.card}>
             <h3>Hobbies</h3>
             <p>My Hobbies!</p>
           </a>
 
-          <a href="pages/Foods.html" className={styles.card}>
+          <a href="https://github.com/abcdlogin/next-js/blob/0af07cc8bb5eaed4f93c8e8b6d340969456166a1/pages/Foods.html" className={styles.card}>
             <h3>Foods</h3>
             <p>Foods I Like!</p>
           </a>
 
-          <a href="pages/Skills.html" className={styles.card}>
+          <a href="https://github.com/abcdlogin/next-js/blob/0af07cc8bb5eaed4f93c8e8b6d340969456166a1/pages/Skills.html" className={styles.card}>
             <h3>Skills</h3>
             <p>
               What I am good at!
