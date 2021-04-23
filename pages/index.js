@@ -30,18 +30,12 @@ export default function Home() {
             <p>My Hobbies!</p>
           </a>
 
-          <a
-            href="pages/Foods.html"
-            className={styles.card}
-          >
+          <a href="pages/Foods.html" className={styles.card}>
             <h3>Foods</h3>
             <p>Foods I Like!</p>
           </a>
 
-          <a
-            href="pages/Skills.html"
-            className={styles.card}
-          >
+          <a href="pages/Skills.html" className={styles.card}>
             <h3>Skills</h3>
             <p>
               What I am good at!
