@@ -34,7 +34,7 @@ export default function Home() {
             className={styles.card}
           >
             <h3>Foods</h3>
-            <p>The Foods!</p>
+            <p>Foods I Like!</p>
           </a>
 
           <a
